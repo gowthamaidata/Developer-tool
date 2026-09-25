@@ -1,0 +1,1 @@
+import{p as o,u as i,j as r}from"./index-DUqtsT8d.js";function p({path:e,heading:a,children:t}){const s=o(e);return i(s.title,s.description,e),r.jsxs("article",{className:"wrap page narrow prose",children:[r.jsx("h1",{children:a}),t]})}export{p as P};
